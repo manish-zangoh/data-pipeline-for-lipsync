@@ -1,0 +1,9 @@
+.venv
+dataset/input_videos/*
+dataset/raw/*
+dataset/manifests/*
+dataset/processed/clips/*
+dataset/processed/debug/*
+dataset/sidecars/face_tracks/*
+dataset/sidecars/transcripts/*
+dataset/sidecars/phonemes/*

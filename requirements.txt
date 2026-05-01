@@ -1,0 +1,26 @@
+# Core
+numpy==1.24.4
+pandas==2.0.3
+
+# Video + processing
+ffmpeg-python==0.2.0
+opencv-python
+scenedetect[pyav]
+
+# AI/ML
+mediapipe
+faster-whisper
+g2p_en
+
+# Utilities
+tqdm==4.66.1
+python-dotenv==1.0.1
+pyyaml==6.0.1
+
+# Logging & structure
+loguru==0.7.2
+
+# JSON + validation
+pydantic==1.10.14
+
+requests==2.31.0
