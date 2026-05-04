@@ -1,5 +1,7 @@
 .venv
-
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
 dataset/input_videos/*
 dataset/raw/*
 dataset/manifests/*

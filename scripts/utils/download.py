@@ -2,7 +2,7 @@ import os
 import requests
 from tqdm import tqdm
 
-API_KEY = "bNN4IDQiaFftE7DwxyBk5zreydQoVkvFrSJm6vBi6DiwIoFAsCJEwYdj"
+API_KEY = ""
 SEARCH_QUERY = "interview person talking face"
 PER_PAGE = 10
 TOTAL_VIDEOS = 5
